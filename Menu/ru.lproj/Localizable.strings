@@ -1,0 +1,126 @@
+/* 
+  Localizable.strings
+  Menu
+
+  Created by AVROMIC on 1/17/18.
+  Copyright © 2018 My Mac. All rights reserved.
+*/
+"About" = "О приложении";
+"Language" = "Язык";
+"Notification" = "Уведомления";
+"Log out" = "Выйти";
+"User name" = "Имя пользователя";
+"Password" = "Пароль";
+"Login" = "Войти";
+"Forgot password" = "Забыл пароль";
+"Emeduni for IOS Version 1.0 (build 1) Avromic LLC" = "Emeduni для IOS \n Версия 1.0 (сборка 1) \n AvroTeam";
+"Do you want to logout?" = "Вы хотите выйти?";
+"Yes" = "Да";
+"No" = "Нет";
+"l/h" = "ауд.";
+"N°" = "Класс";
+"time" = "время";
+"subject" = "Предмет";
+"Subject list" = "Предметы";
+"Progress" = "Успеваемость";
+"Absence" = "Посещаемость";
+"Schedule" = "Расписание";
+"Finance" = "Финансы";
+"Settings" = "Настройки";
+"Subjects" = "Предметы";
+"Average score" = "СКО";
+"Ok" = "Ok";
+"Cancel" = "Отмена";
+"Select the field" = "Выберите пункт";
+"Please choose if you want take picture of ticket or get it from a gallery" = "Пожалуйста выберите, хотите сфотографировать талон или взять из галереи";
+"Get a ticket" = "Взять талон";
+"Take a ticket" = "сфотографировать талон";
+"cancel" = "Отмена";
+"send a ticket" = "отправить талон";
+"Please choose if you want take picture of avatar or get it from a gallery" = "Пожалуйста выберите, хотите сфотографировать или взять из галереи";
+"Take a photo"= "сфотографировать";
+"Get a photo" = "Взять фото";
+"Select date" = "Выберите дату";
+"You can't sign in" = "Вы не можете войти";
+"Please check the spelling of your login and password" = "Пожалуйста, проверьте правописание своего \n логина и пароля";
+"ok" = "Ok";
+"Log out from all devices" = "Вийти из всех устройств";
+
+
+"Full name" = "Полное имя";
+"In staff" = "В персонале";
+"Workplace" = "Работа";
+"Phone" = "Телефон";
+"Notes" = "Заметки";
+
+"Father" = "Отец";
+"Mother" = "Мать";
+
+"Identifier" ="Идентификатор";
+"Married" = "Женат/ Замужем";
+"Has kid" = "Дети";
+"Birthdate" = "Дата рождения";
+"Birthplace" = "Место рождения";
+"Sex" = "Пол";
+"Nationality" = "Национальность";
+"Citizenship" ="Гражданство";
+"Registration" = "Регистрация";
+"Living address" = "Место жительство";
+"Religion" = "Религия";
+"Email" = "Эл.почта";
+
+"Semester" = "Семестр";
+"Absence of semester" = "Отсутствие по семестру";
+
+
+"Detail" = "Подробности";
+"Subject" = "Предмет";
+"Building" = "Здание";
+"hour"= "Часы";
+"Lecture" ="Преподователь";
+"Room" = "Кабинет";
+"Lesson" = "Урок";
+
+"Credit" = "Кредит";
+"Ex.Type" = "Тип пров.";
+"Hours" = "Кол час.";
+
+"Avarage grade of semester" = "Средняя оценка семестра";
+"L.Xam" = "Эл.экзам";
+"Grade" = "оценки";
+"Date" = "Дата";
+
+"Profession" = "профессия";
+"Study language" = "языки обучения";
+"By specialty" = "По специальностям";
+"Subject type" = "Тип объекта";
+"Subject teaching type" = "Тип обучения";
+"Examination type" = "Тип экзаменама";
+"  All semesters" = "   Все семестры";
+" Current semester" = "  Текущий семестр";
+"Do you have regular occupation?" = "У Вас есть постоянная занятость?";
+"Medical specialties of interest" = "Интересующие медицинской специальности";
+"Other interests / preferences" = "Другие интересы/предпочтения";
+"Choose / Watch" = "Выбрать / Смотреть";
+"Submite personal data" = "Подтвердить персональные данные";
+"Comfirm personal Data" = "Подтвердить персональные данные";
+"done" = "выбрать";
+"Status" = "Статус";
+
+"If you find an error, please report it immediately to the dean's office" = "Если вы обнаружили ошибку, пожалуйста, немедленно сообщите об этом в деканат";
+
+"Medical spetiality" = "Медецинская проффесия";
+"Other" = "Другое";
+"Add spetiality" = "Добавить проффесию";
+
+"Exam date" = "Дата экзаена";
+"Atempt" = "Попытка";
+"Bad" = "Плохо";
+"Average" = "Средний";
+"Allowable" = "Допустимо";
+
+
+"No information." = "Информация отсутствует.";
+
+"No connection" = "Нет соединения";
+"You already have the latest data." = "У вас уже есть последние данные.";

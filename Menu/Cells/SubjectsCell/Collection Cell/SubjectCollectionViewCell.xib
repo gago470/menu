@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="subjectCollectionID" id="gTV-IL-0wX" customClass="SubjectCollectionViewCell" customModule="Menu" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="430" height="511"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="430" height="511"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Y8B-Cm-I9s">
+                        <rect key="frame" x="0.0" y="0.0" width="430" height="511"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tableView>
+                </subviews>
+            </view>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="Y8B-Cm-I9s" secondAttribute="trailing" id="Dou-J7-qqv"/>
+                <constraint firstItem="Y8B-Cm-I9s" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="fcN-xx-oqK"/>
+                <constraint firstAttribute="bottom" secondItem="Y8B-Cm-I9s" secondAttribute="bottom" id="pph-Z1-dgg"/>
+                <constraint firstItem="Y8B-Cm-I9s" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="rTk-N9-Ry5"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="430" height="511"/>
+            <connections>
+                <outlet property="subjectTableView" destination="Y8B-Cm-I9s" id="gsk-cm-iPj"/>
+            </connections>
+            <point key="canvasLocation" x="42" y="153.5"/>
+        </collectionViewCell>
+    </objects>
+</document>

@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "ok"; ObjectID = "K0O-qH-eTH"; */
+"K0O-qH-eTH.normalTitle" = "ok";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "V9f-Jw-Aht"; */
+"V9f-Jw-Aht.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Select date"; ObjectID = "cpP-5S-fIE"; */
+"cpP-5S-fIE.normalTitle" = "Ընտրել ամսաթիվը";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "emH-SL-ahc"; */
+"emH-SL-ahc.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Русский(Россия)"; ObjectID = "eyH-oE-D8I"; */
+"eyH-oE-D8I.normalTitle" = "Русский(Россия)";
+
+/* Class = "UIButton"; normalTitle = "English(United Kingdom)"; ObjectID = "jY4-aW-tJb"; */
+"jY4-aW-tJb.normalTitle" = "English(United Kingdom)";
+
+/* Class = "UILabel"; text = "Log out"; ObjectID = "lhx-cb-vkB"; */
+"lhx-cb-vkB.text" = "Դուրս գալ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "oAh-qh-xUa"; */
+"oAh-qh-xUa.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Հայերեն(Հայաստան)"; ObjectID = "oMi-DI-7L0"; */
+"oMi-DI-7L0.normalTitle" = "Հայերեն(Հայաստան)";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "qgl-wl-3ch"; */
+"qgl-wl-3ch.text" = "Ծանուցում";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "wTj-Y9-Ryn"; */
+"wTj-Y9-Ryn.text" = "Լեզուն";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "wfj-xc-3KV"; */
+"wfj-xc-3KV.text" = "Հավելվածի մասին";

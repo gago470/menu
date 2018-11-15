@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "ok"; ObjectID = "K0O-qH-eTH"; */
+"K0O-qH-eTH.normalTitle" = "ok";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "V9f-Jw-Aht"; */
+"V9f-Jw-Aht.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Select date"; ObjectID = "cpP-5S-fIE"; */
+"cpP-5S-fIE.normalTitle" = "Select date";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "emH-SL-ahc"; */
+"emH-SL-ahc.text" = "1";
+
+/* Class = "UILabel"; text = "Log out"; ObjectID = "lhx-cb-vkB"; */
+"lhx-cb-vkB.text" = "Log out";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "oAh-qh-xUa"; */
+"oAh-qh-xUa.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "qgl-wl-3ch"; */
+"qgl-wl-3ch.text" = "Notification";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "wTj-Y9-Ryn"; */
+"wTj-Y9-Ryn.text" = "Language";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "wfj-xc-3KV"; */
+"wfj-xc-3KV.text" = "About";

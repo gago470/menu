@@ -1,0 +1,117 @@
+/* 
+  Localizable.strings
+  Menu
+
+  Created by AVROMIC on 1/17/18.
+  Copyright © 2018 My Mac. All rights reserved.
+*/
+"About" = "About";
+"Language" = "Language";
+"Notification" = "Notification";
+"Log out" = "Log out";
+"User name" = "User name";
+"Password" = "Password";
+"Login" = "Login";
+"Forgot password" = "Forgot password";
+"Emeduni for IOS Version 1.0 (build 1) Avromic LLC" = "Emeduni for IOS \n Version 1.0 (build 1) \n AvroTeam";
+"Do you want to logout?" = "Do you want to logout?";
+"Yes" = "Yes";
+"No" = "No";
+"l/h" = "l/h";
+"time" = "time";
+"N°" = "Class room";
+"subject" = "Subject";
+"Subjects" = "Subjects";
+"Progress" = "Progress";
+"Absence" = "Absence";
+"Schedule" = "Schedule";
+"Finance" = "Finance";
+"Settings" = "Settings";
+"Subjects" = "Subjects";
+"Average score" = "AQG";
+"Select the field" = "Select the field";
+"Please choose if you want take picture of ticket or get it from a gallery" = "Please choose if you want take picture of ticket or get it from a gallery";
+"Get a ticket" = "Get a ticket";
+"Take a ticket" = "Take a ticket";
+"cancel" = "cancel";
+"send a ticket" = "send a ticket";
+"Please choose if you want take picture of avatar or get it from a gallery" = "Please choose if you want take picture of avatar or get it from a gallery";
+"Take a photo" = "Take a photo";
+"Get a photo" = "Get a photo";
+"Select date" = "Select date";
+"You can't sign in" = "You can't sign in";
+"Please check the spelling of your login and password" = "Please check the spelling of your \n login and password";
+"ok" = "Ok";
+"Log out from all devices" = "Log out from all devices";
+
+
+"Full name" = "Full name";
+"Workplace" = "Workplace";
+"In staff" = "In staff";
+"Phone" = "Phone";
+"Notes" = "Notes";
+
+"Father" = "Father";
+"Mother" = "Mother";
+
+"Identifier" ="Identifier";
+"Married" = "Married";
+"Has kid" = "Has kid";
+"Birthdate" = "Birthdate";
+"Birthplace" = "Birthplace";
+"Sex" = "Sex";
+"Nationality" = "Nationality";
+"Citizenship" ="Citizenship";
+"Registration" = "Registration";
+"Living address" = "Living address";
+"Religion" = "Religion";
+"Email" = "Email";
+
+"Semester" = "Semester";
+"Absence of semester" = "Absence of semester";
+
+"Detail" = "Detail";
+"Subject" = "Subject";
+"Building" = "Building";
+"hour"= "hour";
+"Lecture" ="Lecture";
+"Room" = "Room";
+"Lesson" = "Lesson";
+
+"Credit" = "Credit";
+"Ex.Type" = "Ex.Type";
+"Hours" = "Hours";
+
+"Avarage grade of semester" = "Avarage grade of semester";
+"L.Xam" = "L.Xam";
+"Grade" = "Grade";
+"Date" = "Date";
+
+"Profession" = "Profession";
+"Study language" = "Study language";
+"By specialty" = "By specialty";
+"Subject type" = "Subject type";
+"Subject teaching type" = "Subject teaching type";
+"Examination type" = "Examination type";
+
+"  All semesters" = "  All semesters";
+" Current semester" = " Current semester";
+"Do you have regular occupation?" = "Do you have regular occupation?" ;
+"Medical specialties of interest" = "Medical specialties of interest" ;
+"Other interests / preferences" = "Other interests / preferences";
+"Choose / Watch" = "Choose / Watch";
+"Submite personal data" = "Submite personal data";
+"Comfirm personal Data" = "Comfirm personal Data";
+"done" = "done";
+"Status" = "Status";
+
+"If you find an error, please report it immediately to the dean's office" = "If you find an error, please report it immediately to the dean's office";
+
+"Medical spetiality" = "Medical spetiality";
+"Other" = "Other";
+
+"Exam date" = "Exam date" ;
+"Atempt" = "Atempt";
+
+"No information." = "No connection";
+"You already have the latest data." = "You already have the latest data.";

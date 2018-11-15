@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Menu/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body/>
+  </file>
+  <file original="Menu/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="K0O-qH-eTH.normalTitle">
+        <source>ok</source>
+        <target>ok</target>
+        <note>Class = "UIButton"; normalTitle = "ok"; ObjectID = "K0O-qH-eTH";</note>
+      </trans-unit>
+      <trans-unit id="V9f-Jw-Aht.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "V9f-Jw-Aht";</note>
+      </trans-unit>
+      <trans-unit id="cpP-5S-fIE.normalTitle">
+        <source>Select date</source>
+        <target>Выберите дату</target>
+        <note>Class = "UIButton"; normalTitle = "Select date"; ObjectID = "cpP-5S-fIE";</note>
+      </trans-unit>
+      <trans-unit id="emH-SL-ahc.text">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "emH-SL-ahc";</note>
+      </trans-unit>
+      <trans-unit id="eyH-oE-D8I.normalTitle">
+        <source>Русский(Россия)</source>
+        <target>Русский(Россия)</target>
+        <note>Class = "UIButton"; normalTitle = "Русский(Россия)"; ObjectID = "eyH-oE-D8I";</note>
+      </trans-unit>
+      <trans-unit id="jY4-aW-tJb.normalTitle">
+        <source>English(United Kingdom)</source>
+        <target>English(United Kingdom)</target>
+        <note>Class = "UIButton"; normalTitle = "English(United Kingdom)"; ObjectID = "jY4-aW-tJb";</note>
+      </trans-unit>
+      <trans-unit id="lhx-cb-vkB.text">
+        <source>Log out</source>
+        <target>Выйти</target>
+        <note>Class = "UILabel"; text = "Log out"; ObjectID = "lhx-cb-vkB";</note>
+      </trans-unit>
+      <trans-unit id="oAh-qh-xUa.normalTitle">
+        <source>Cancel</source>
+        <target>Отмена</target>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "oAh-qh-xUa";</note>
+      </trans-unit>
+      <trans-unit id="oMi-DI-7L0.normalTitle">
+        <source>Հայերեն(Հայաստան)</source>
+        <target>Հայերեն(Հայաստան)</target>
+        <note>Class = "UIButton"; normalTitle = "Հայերեն(Հայաստան)"; ObjectID = "oMi-DI-7L0";</note>
+      </trans-unit>
+      <trans-unit id="qgl-wl-3ch.text">
+        <source>Notification</source>
+        <target>Уведомление</target>
+        <note>Class = "UILabel"; text = "Notification"; ObjectID = "qgl-wl-3ch";</note>
+      </trans-unit>
+      <trans-unit id="wTj-Y9-Ryn.text">
+        <source>Language</source>
+        <target>Язык</target>
+        <note>Class = "UILabel"; text = "Language"; ObjectID = "wTj-Y9-Ryn";</note>
+      </trans-unit>
+      <trans-unit id="wfj-xc-3KV.text">
+        <source>About</source>
+        <target>О приложении</target>
+        <note>Class = "UILabel"; text = "About"; ObjectID = "wfj-xc-3KV";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Menu/Home/Base.lproj/HomeBoard.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="NGL-S0-dxR.text">
+        <source>500</source>
+        <target>500</target>
+        <note>Class = "UILabel"; text = "500"; ObjectID = "NGL-S0-dxR";</note>
+      </trans-unit>
+      <trans-unit id="qiR-j2-G7i.text">
+        <source>50</source>
+        <target>50</target>
+        <note>Class = "UILabel"; text = "50"; ObjectID = "qiR-j2-G7i";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Menu/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>Menu</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Menu/Localizable.strings" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="About">
+        <source>About</source>
+        <target>О приложении</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Absence">
+        <source>Absence</source>
+        <target>Посещаемость</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Average score">
+        <source>Average score</source>
+        <target>Средний балл</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Emeduni for IOS    Version 1.0 (build 1)    Avromic LLC">
+        <source>Emeduni for IOS    Version 1.0 (build 1)    Avromic LLC</source>
+        <target>Emeduni для IOS    Версия  1.0 (сборка 1)    Avromic ООО</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Finance">
+        <source>Finance</source>
+        <target>Финансы</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Notification">
+        <source>Notification</source>
+        <target>Уведомления</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="N°">
+        <source>N°</source>
+        <target>N°</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Progress">
+        <source>Progress</source>
+        <target>Успеваемость</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Schedule">
+        <source>Schedule</source>
+        <target>Расписание</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <target>Настройки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="l/h">
+        <source>l/h</source>
+        <target>ауд.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="subject">
+        <source>subject</source>
+        <target>предмет</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="time">
+        <source>time</source>
+        <target>время</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Menu/Login/Base.lproj/LoginStoryboard.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="Bkd-iw-oRP.text">
+        <source>Login</source>
+        <target>Вход</target>
+        <note>Class = "UILabel"; text = "Login"; ObjectID = "Bkd-iw-oRP";</note>
+      </trans-unit>
+      <trans-unit id="mBf-47-7rd.placeholder">
+        <source>User name</source>
+        <target>Имя пользователя</target>
+        <note>Class = "UITextField"; placeholder = "User name"; ObjectID = "mBf-47-7rd";</note>
+      </trans-unit>
+      <trans-unit id="qlM-AI-E69.placeholder">
+        <source>Password</source>
+        <target>Пароль</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "qlM-AI-E69";</note>
+      </trans-unit>
+      <trans-unit id="wcc-uU-dG2.text">
+        <source>Forgot password</source>
+        <target>Забыл пароль</target>
+        <note>Class = "UILabel"; text = "Forgot password"; ObjectID = "wcc-uU-dG2";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Menu/Menu/Base.lproj/SXMenuCell.xib" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="NVs-gP-UyY.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "NVs-gP-UyY";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Menu/MenuControlls/Base.lproj/SXMenuBoard.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body/>
+  </file>
+</xliff>

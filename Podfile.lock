@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.6.0)
+  - GIFImageView (0.1.0)
+  - KYDrawerController (2.0.4)
+  - Localize-Swift (2.0.0)
+  - Realm (3.0.2):
+    - Realm/Headers (= 3.0.2)
+  - Realm/Headers (3.0.2)
+  - RealmSwift (3.0.2):
+    - Realm (= 3.0.2)
+  - SConnection (0.0.2)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - GIFImageView
+  - KYDrawerController
+  - Localize-Swift
+  - RealmSwift
+  - SConnection
+  - Toast-Swift (~> 3.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - GIFImageView
+    - KYDrawerController
+    - Localize-Swift
+    - Realm
+    - RealmSwift
+    - SConnection
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  GIFImageView: cd6a500b9bac1942cb66b73452b97baa6e75280d
+  KYDrawerController: cf5839877c442132123e9d482f458821026defdf
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  Realm: 6f23fd1f178a09342eac21bfa7c2bf4312a7a180
+  RealmSwift: 695393add1b8f9d5fa75dd16e6355cf3935f71e2
+  SConnection: ed91450e7d62b4b5457bbc986514396f5d3a7ce3
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 44056dddbf3806dfe3ee3413089a1bc986122964
+
+COCOAPODS: 1.5.2

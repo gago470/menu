@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="HyV-bj-pEO">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Login View Controller-->
+        <scene sceneID="WkG-Dl-zx6">
+            <objects>
+                <viewController storyboardIdentifier="loginVC" id="HyV-bj-pEO" customClass="LoginViewController" customModule="Menu" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="nWG-UA-Ayp">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Login back" translatesAutoresizingMaskIntoConstraints="NO" id="e3D-bE-ZQS">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Password" textAlignment="natural" clearsOnBeginEditing="YES" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="qlM-AI-E69">
+                                <rect key="frame" x="70" y="287" width="235" height="30"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
+                            </textField>
+                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="User name" textAlignment="natural" clearsOnBeginEditing="YES" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="mBf-47-7rd">
+                                <rect key="frame" x="70" y="225" width="235" height="30"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" restorationIdentifier="logIn" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8tY-a8-GR8" userLabel="Log in">
+                                <rect key="frame" x="93" y="331" width="189" height="30"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle"/>
+                                </state>
+                                <connections>
+                                    <action selector="logInButtonAction:" destination="HyV-bj-pEO" eventType="touchUpInside" id="Ccy-wn-pYo"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bkd-iw-oRP" userLabel="loginLabel">
+                                <rect key="frame" x="93" y="331" width="189" height="30"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="17"/>
+                                <color key="textColor" red="0.33333333329999998" green="0.43137254899999999" blue="0.4823529412" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="highlightedColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="e3D-bE-ZQS" firstAttribute="leading" secondItem="4fc-r1-ShC" secondAttribute="leading" id="3oo-4n-crw"/>
+                            <constraint firstItem="e3D-bE-ZQS" firstAttribute="trailing" secondItem="4fc-r1-ShC" secondAttribute="trailing" id="4or-Bl-7Le"/>
+                            <constraint firstItem="e3D-bE-ZQS" firstAttribute="top" secondItem="nWG-UA-Ayp" secondAttribute="top" id="Mhh-ko-FHc"/>
+                            <constraint firstItem="e3D-bE-ZQS" firstAttribute="bottom" secondItem="4fc-r1-ShC" secondAttribute="bottom" id="ULr-J3-7h6"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="4fc-r1-ShC"/>
+                    </view>
+                    <connections>
+                        <outlet property="loginButton" destination="Bkd-iw-oRP" id="6Yu-H9-Zyj"/>
+                        <outlet property="passwordText" destination="qlM-AI-E69" id="afB-zI-aTW"/>
+                        <outlet property="userNameText" destination="mBf-47-7rd" id="biE-Wy-c9r"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="si8-Kw-d3l" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="132" y="130.88455772113943"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Login back" width="572" height="972"/>
+    </resources>
+</document>

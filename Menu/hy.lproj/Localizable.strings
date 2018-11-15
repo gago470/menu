@@ -1,0 +1,126 @@
+/* 
+  Localizable.strings
+  Menu
+
+  Created by AVROMIC on 1/17/18.
+  Copyright © 2018 My Mac. All rights reserved.
+*/
+"About" = "Հավելվածի մասին";
+"Language" = "Լեզու";
+"Notification" = "Ծանուցում";
+"Log out" = "Դուրս գալ";
+"User name" = "Մուտքանուն";
+"Password" = "Գաղտնաբառ";
+"Login" = "Մուտք";
+"Forgot password" = "Մոռացել եմ Գաղտնաբառը";
+"Emeduni for IOS Version 1.0 (build 1) Avromic LLC" = "Emeduni IOS-ի համար \n  Տարբերակ 1.0  \n  (կառուցում 1)  \n  AvroTeam";
+"Do you want to logout?" = "Դուք ուզու՞մ եք դուրս գալ";
+"Yes" = "Այո";
+"No" = "Ոչ";
+"l/h" = "հ/հ";
+"time" = "ժամ";
+"N°" = "Լսարան";
+"subject" = "Առարկա";
+"Subject list" = "Առարկայացանկ";
+"Progress" = "Առաջադիմություն";
+"Absence" = "Բացակայություն";
+"Schedule" = "Դասացուցակ";
+"Finance" = "Ֆինանս";
+"Settings" = "Կարգավորումներ";
+"Subjects" = "Առարկայացանկ";
+"Average score" = "ՄՈԳ";
+"Ok" = "Լավ";
+"Cancel" = "Չեղարկել";
+"Select the field" = "Ընտրեք դաշտը";
+"Please choose if you want take picture of ticket or get it from a gallery" = "Խնդրում եմ ընտրեք, ուզում եք նկարել կտրոնը, թե վերցնեք պատկերասրահից";
+"Get a ticket" = "Ստանալ կտրոնը";
+"Take a ticket" = "Լուսանկարել կտրոնը";
+"cancel" = "Չեղարկել";
+"send a ticket" = "Ուղարկել կտրոնը";
+"Please choose if you want take picture of avatar or get it from a gallery" = "Խնդրում եմ ընտրեք, ուզում եք նկարել, թե վերցնեք պատկերասրահից";
+"Take a photo"= "նկարել";
+"Get a photo" = "վերցնել պատկերասրահից";
+"Select date" = "Ընտրեք ամսաթիվը";
+"You can't sign in" = "Դուք չեք կարող մուտք գործել";
+"Please check the spelling of your login and password" = "Խնդրում ենք ստուգել ձեր մուտքիանունի եւ գաղտնաբառի ուղղագրությունը";
+"ok" = "Լավ";
+"Log out from all devices" = "Դուրս գալ բոլոր սարքեից";
+
+"Full name" = "Լրիվ անունը";
+"Workplace" = "Աշխատանքը";
+"In staff" = "Աշխատակազմի անդամ է";
+"Phone" = "Հեռախոս";
+"Notes" = "Գրառումներ";
+
+"Father" = "Հայրը";
+"Mother" = "Մայրը";
+
+"Identifier" = "Նույնացուցիչ";
+"Married" = "Ամուսնացած";
+"Has kid" = "Ունի երեխաներ";
+"Birthdate" = "Ծննդյան թիվ";
+"Birthplace" = "Ծննդավայր";
+"Sex" = "Սեռ";
+"Nationality" = "Ազգություն";
+"Citizenship" = "Քաղաքացիություն";
+"Registration" = "Գրանցում";
+"Living address" = "Բնակության վայր";
+"Religion" = "Կրոն";
+"Email" = "Էլ.փոստ";
+
+"Semester" = "Կիսամյակ";
+"Absence of semester" = "Կիսամյակի բացակայությունը";
+
+
+"Detail" = "Մանրամասներ";
+"Subject" = "Առարկա";
+"Building" = "Մասնաշենք";
+"hour"= "Ժամ";
+"Lecture" ="Դասախոս";
+"Room" = "Սենյակ";
+"Lesson" = "Դասաժամ";
+
+"Credit" = "Կտդ";
+"Ex.Type" = "Ստուգ. ձև";
+"Hours" = "ժամ.";
+
+"Avarage grade of semester" = "Կիսամյակի միջին գնահատումը";
+"L.Xam" = "էլ.քնն";
+"Grade" = "Գնահատականներ";
+"Date" = "Ամսաթիվ";
+
+"Profession" = "Մասնագիտություն";
+"Study language" = "Ուսուցման լեզուն";
+"By specialty" = "Ըստ մասնագիտության";
+"Subject type" = "Առարկայի տեսակը";
+"Subject teaching type" = "Դասավանդման տեսակը";
+"Examination type" = "Քննության տեսակը";
+
+"  All semesters" = "   Բոլոր կիսամյակները";
+" Current semester" = " Ընթացիկ կիսամյակ";
+"Do you have regular occupation?" = "Ունե՞ք մշտական զբաղվածություն";
+"Medical specialties of interest" = "Հետաքրքրող բժշկական մասնագիտությունները";
+"Other interests / preferences" = "Այլ հետաքրքրություններ/նախասիրություններ";
+"Choose / Watch" = "Ընտրել / Դիտել";
+"Submite personal data" = "Հաստատել տվյալները";
+"Comfirm personal Data" = "Հաստատել տվյալները";
+"done" = "ընտրել";
+"Status" = "Կարգավիճակ";
+
+"If you find an error, please report it immediately to the dean's office" = "Եթե սխալ եք հայտնաբերել, խնդրում ենք այդ մասին անհապաղ հայտնել դեկանատին";
+
+"Medical spetiality" = "Բժշկական մասնագիտություն";
+"Other" = "Այլ";
+"Add spetiality" = "Ավելացնել մասնագիտություն";
+
+"Exam date" = "Քննության ամսաթիվ";
+"Atempt" = "Փորձ";
+
+"Bad" = "Վատ";
+"Average" = "Միջին";
+"Allowable" = "Թույլատրելի";
+
+"No information." = "Տեղեկատվությունը բացակայում է:";
+
+"No connection" = "Կապ չկա";
+"You already have the latest data." = "Դուք արդեն ունեք վերջին տվյալները:";
